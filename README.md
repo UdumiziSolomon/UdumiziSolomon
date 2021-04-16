@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @UdumiziSolomon
-- 👀 I’m interested in full stack development(mobile and web development)
-- 🌱 I’m currently learning mobile technologies
+- 👋 Hi, I’m @UdumiziSolomon @ software developer
+- 👀 In for full stack development(Mobile and web development(PWA))
+- 🌱 I love mobile technologies and algorithm sorting
 - 💞️ I’m looking to collaborate on projects relating to backend and api integrations
 - 📫 How to reach me solomonudumizi@gmail.com, solonode@gmail.com
 
